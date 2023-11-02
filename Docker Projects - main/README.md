@@ -22,7 +22,7 @@
 <hr>
 
 <h3>1. Dockerized "Hello World!" Page</h3>
-<a href="https://github.com/dsilverio123/BeyondMD123/tree/main/home">View the Project in the Home Directory</a>
+<a href="https://github.com/dsilverio123/DockerProjects/tree/main/Docker%20Projects%20-%20main/home">View the Project in the Home Directory</a>
 
 <h4>Description</h4>
 <p>A simple page built with HTML that displays "Hello BeyondMD!". This web page is dockerized to ensure easy deployment and consistent runtime environment.</p>
@@ -47,7 +47,7 @@ sudo docker-compose up -d
 <hr>
 
 <h3>2. System Health Reporting Script for Debian</h3>
-<a href="https://github.com/dsilverio123/BeyondMD123/tree/main/systemhealth123">View the System Health Project</a>
+<a href="https://github.com/dsilverio123/DockerProjects/tree/main/Docker%20Projects%20-%20main/systemhealth123">View the System Health Project</a>
 
 <h4>Description</h4>
 <p>In this directory, you will find two essential components:</p>
@@ -80,7 +80,7 @@ This updated content clarifies the two components present in the directory.
 <hr>
 
 <h3>3. Ansible Playbook for Docker on Debian Bookworm</h3>
-<a href="https://github.com/dsilverio123/BeyondMD123/tree/main/ansible-debian-docker">View the Ansible Playbook Project</a>
+<a href="https://github.com/dsilverio123/BeyondMD123/tree/main/ansible-debian-docker](https://github.com/dsilverio123/DockerProjects/tree/main/Docker%20Projects%20-%20main/ansible-debian-docker">View the Ansible Playbook Project</a>
 
 <h4>Description</h4>
 <p>An idempotent Ansible playbook designed for Debian Bookworm systems. This playbook automates the installation and configuration of Docker, ensuring it's executed without unnecessary changes to the system state.</p>
