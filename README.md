@@ -25,7 +25,7 @@
 <a href="https://github.com/dsilverio123/BeyondMD123/tree/main/home">View the Project in the Home Directory</a>
 
 <h4>Description</h4>
-<p>A simple page built with HTML that displays "Hello BeyondMD!". This web page is dockerized to ensure easy deployment and consistent runtime environment.</p>
+<p>A simple page built with HTML that displays "Hello World!". This web page is dockerized to ensure easy deployment and consistent runtime environment.</p>
 
 <h4>Dependencies</h4>
 <pre><code>
